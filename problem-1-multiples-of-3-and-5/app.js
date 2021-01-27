@@ -1,5 +1,5 @@
 
-const calculate = (limit) =>{
+const calculate = limit =>{
    let result = 0
 
    for(let i = 1; i < limit; i++){
