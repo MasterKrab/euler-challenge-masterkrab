@@ -8,7 +8,7 @@ const isPrime = value =>{
 }
 
 const largestPrime = number =>{
-   for(let i = 8000; i > 0; i--){
+   for(let i = number - 1; i > 0; i--){
       if(number % i === 0 && i !== number)
          if(isPrime(i)) return i
    }
