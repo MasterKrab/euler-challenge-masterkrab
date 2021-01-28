@@ -1,3 +1,5 @@
-# euler-challenge-masterkrab
-Solutions to challenges from Project Euler 
-# https://projecteuler.net
+# Euler Challenges
+Solutions to challenges from Project Euler using javascript
+[Project Euler](https://projecteuler.net/)
+
+
